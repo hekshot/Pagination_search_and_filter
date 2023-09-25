@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "name": "Aman",
+      "email": "amnrj@gmail.com",
+      "phone": "901244553",
+      "address": "dhanbad",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "phone": "1234567890",
+      "address": "123 Main Street",
+      "id": 2,
+      "status": "Inactive"
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@example.com",
+      "phone": "9876543210",
+      "address": "456 Elm Street",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "name": "Michael",
+      "email": "michael@example.com",
+      "phone": "5551234567",
+      "address": "789 Oak Avenue",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "name": "Emily",
+      "email": "emily@example.com",
+      "phone": "5559876543",
+      "address": "101 Pine Road",
+      "id": 5,
+      "status": "Inactive"
+    },
+    {
+      "name": "David",
+      "email": "david@example.com",
+      "phone": "9998887777",
+      "address": "202 Maple Lane",
+      "id": 6,
+      "status": "Active"
+    },
+    {
+      "name": "Olivia",
+      "email": "olivia@example.com",
+      "phone": "4443332222",
+      "address": "303 Birch Street",
+      "id": 7,
+      "status": "Inactive"
+    },
+    {
+      "name": "William",
+      "email": "william@example.com",
+      "phone": "2223334444",
+      "address": "404 Cedar Road",
+      "id": 8,
+      "status": "Inactive"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia@example.com",
+      "phone": "1112223333",
+      "address": "505 Redwood Lane",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "James",
+      "email": "james@example.com",
+      "phone": "7778889999",
+      "address": "606 Willow Avenue",
+      "id": 10,
+      "status": "Inactive"
+    },
+    {
+      "name": "Emma",
+      "email": "emma@example.com",
+      "phone": "6665554444",
+      "address": "707 Pine Street",
+      "id": 11,
+      "status": "Active"
+    }
+  ]
+}
